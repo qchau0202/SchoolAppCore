@@ -1,4 +1,3 @@
-# 523k0002_LyHungQuocChau
 # School App Projects 
 ## Exercise 1: Razor Pages Application 
 - Description: ASP.NET Core Razor Pages project using Code First approach. 
