@@ -12,7 +12,7 @@ using SchoolAppCoreRazor.Models;
 namespace SchoolAppCoreRazor.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20250423004043_InitialCreate")]
+    [Migration("20250424235911_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

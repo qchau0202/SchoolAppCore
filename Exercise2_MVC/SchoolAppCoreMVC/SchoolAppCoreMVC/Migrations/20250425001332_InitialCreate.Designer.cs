@@ -12,7 +12,7 @@ using SchoolAppCoreMVC.Models;
 namespace SchoolAppCoreMVC.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20250423013529_InitialCreate")]
+    [Migration("20250425001332_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
